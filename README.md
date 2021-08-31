@@ -1,3 +1,3 @@
 # xpaste
 
-Golang
+Rube
